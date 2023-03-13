@@ -1,1 +1,1 @@
-# journay
+# journal
