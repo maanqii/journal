@@ -1,4 +1,4 @@
-# coding literacy
+# Coding Literacy
 ## Part I
 When the first car hit the streets, I'm sure no one thought it would become a vehicle used by almost everyone. In the same way, programming is slowly moving from being a vocational skill for a few people to a popular one in an era where the Internet age has opened up and become widespread.
 Programming, as the name implies, is the process of having a computer write a program code in a programming language to solve a problem and eventually get the corresponding result, in short, programming is a language in which humans and computers talk.
