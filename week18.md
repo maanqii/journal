@@ -1,4 +1,7 @@
 ## The machine
+![微信图片_20230316162502](https://user-images.githubusercontent.com/119876408/225686921-91abb2d4-ed14-40c5-b159-bc83f7ab646a.png)
+
+
 With advances in surveillance and communications technology, we can now collect a wide range of data on a large scale that can be used to develop artificial intelligence systems to help predict and prevent crime. Designing a "stupid" AI system that can accurately predict premeditated deadly crimes by analyzing data from all surveillance cameras and electronic communications around the world could have many benefits and implications.
 
 First, a "stupid" AI is a machine learning system that does not truly understand human behavior or language. Such systems are capable of performing specified tasks, but do not have the ability to think or reason autonomously. In contrast, a highly intelligent system can understand language and human behavior and think and reason autonomously.
