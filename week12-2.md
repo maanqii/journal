@@ -1,4 +1,6 @@
 ## short story for crip technoscience
+![6375996840496828188529922](https://user-images.githubusercontent.com/119876408/225685116-25814a54-38e1-4342-8460-0e08d32032c3.jpg)
+
 
 In the depths of the universe, a huge space station shining with blue and green light floats quietly. This space station is the latest masterpiece of human civilization.
 
