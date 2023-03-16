@@ -1,3 +1,4 @@
+# Minor Technology
 ## Minus: https://minus.social/
 ![微信图片_20230313185537](https://user-images.githubusercontent.com/119876408/224801953-137cf4d4-4619-4e24-a341-6ae8ed23e4a6.png)
 
