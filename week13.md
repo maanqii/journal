@@ -1,4 +1,7 @@
 ## Field Trip to Design Museum
+![微信图片_20230316162039](https://user-images.githubusercontent.com/119876408/225685573-46c69d85-59a4-4169-8fe5-23b359e75e71.png)
+
+
 When I came to this exhibition, I felt that the overall atmosphere was not so much beautiful and gorgeous as it was a very strange, even depressing feeling in the heart.
 
 Since my undergraduate degree is in product design, this made me relatively familiar with this exhibition. I think I had heard a lot of praise for these works in my undergraduate years, and I was actually in a different state of mind when I had the privilege of seeing the actual exhibits, especially after learning about the meaning of these works, which I think has helped me make more progress in understanding the works.
